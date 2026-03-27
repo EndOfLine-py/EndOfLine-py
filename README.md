@@ -11,7 +11,7 @@
 ├─ Location
 │  └─ " France "
 ├─ Languages
-│  ├─ " Python, Js, Php "
+│  ├─ " Python, Js, Php, "
 │  └─ " Html, Css "
 ├─ Learning
 │  ├─ " Node, Express, PostgreSQL, "
