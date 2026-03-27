@@ -2,7 +2,7 @@
 > python tfetch.py
 ```
 
-<img align="left" src="https://i.imgur.com/xqWE9kc.jpeg" alt="Covert art of Luv(sic) Hexalogy by Nujabes feat Shing02" width="388" style="border-radius: 50%"/> 
+<img align="left" src="https://i.imgur.com/xqWE9kc.jpeg" alt="Covert art of Luv(sic) Hexalogy by Nujabes feat Shing02" width="320" style="border-radius: 50%"/> 
 
 ```js
 .
