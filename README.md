@@ -1,16 +1,29 @@
-## Hi there 👋
+```zsh
+> python tfetch.py
+```
 
-<!--
-**EndOfLine-py/EndOfLine-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://i.imgur.com/xqWE9kc.jpeg" alt="Covert art of Luv(sic) Hexalogy by Nujabes feat Shing02" width="388" style="border-radius: 50%"/> 
 
-Here are some ideas to get you started:
+```js
+.
+├─ Pronouns
+│  └─ " He/Him "
+├─ Location
+│  └─ " France "
+├─ Languages
+│  ├─ " Python, Js, Php "
+│  └─ " Html, Css "
+├─ Learning
+│  ├─ " Node, Express, PostgreSQL, "
+│  └─ " Docker, Ai "
+├─ Hobbies
+│  └─ " Cooking, Gaming, Music "
+├─ School
+│  └─ "Collège d'Alma"
+└─ Music
+   ├─ " Gorillaz, Nujabes, Cielbleu, "
+   └─ " Gemroz, Game OSTs "
+```
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
