@@ -14,8 +14,8 @@
 │  ├─ " Python, Js, Php, "
 │  └─ " Html, Css "
 ├─ Learning
-│  ├─ " Node, Express, PostgreSQL, "
-│  └─ " Docker, Ai "
+│  ├─ " Node, Express, VueJS "
+│  └─ " Docker, PostgreSQL, Ai "
 ├─ Hobbies
 │  └─ " Cooking, Gaming, Music "
 ├─ School
